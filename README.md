@@ -13,6 +13,8 @@ Configure .env file settings
 
 then
 
+`php artisan migrate`
+
 `php artisan buy`
 
 then answer the questions
